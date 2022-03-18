@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=SihyunLee&animation=fadeIn&fontColor=7E7E7E&fontSize=90&fontAlignY=50)
+
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">Techs that I've used</p>
+
+<p align = "center">
+  <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+
+<br><br>
+<h3 align="center">🍀 About Me 🍀</h3><br>
+<a href="https://www.instagram.com/jaeyaaa._.1ee3/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
