@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=injaeLee&animation=fadeIn&fontColor=7E7E7E&fontSize=90&fontAlignY=50)
 
@@ -26,4 +27,5 @@ Here are some ideas to get you started:
 
 <br><br>
 <h3 align="center">🍀 About Me 🍀</h3><br>
-<a href="https://www.instagram.com/jaeyaaa._.1ee3/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
+<p align="center">
+<a href="https://www.instagram.com/jaeyaaa._.1ee3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
