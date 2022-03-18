@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=injaeLee&fontSize=70&animation=twinkling&fontColor=7E7E7E)
+
 <p align="center">🇰🇷 🇬🇧</p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
