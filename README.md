@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<p align="center">🇰🇷 🇬🇧</p>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=injaeLee&animation=fadeIn&fontColor=7E7E7E&fontSize=90&fontAlignY=50)
 
