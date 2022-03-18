@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">🇰🇷 🇬🇧</p>
-<p align="center">
-![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=injaeLee&animation=fadeIn&fontColor=7E7E7E&fontSize=90&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=150&section=header&text=injaeLee&animation=fadeIn&fontColor=7E7E7E&fontSize=80&fontAlignY=50)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Techs that I've used</p>
