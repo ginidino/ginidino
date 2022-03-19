@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <p align="center">🇰🇷 🇬🇧</p>
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginidino)](https://github.com/ginidno/github-readme-stats)
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginidino)](https://github.com/ginidno/github-readme-stats)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Techs that I've used</p>
@@ -32,4 +33,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.instagram.com/jaeyaaa._.1ee3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 
-<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginidino)](https://github.com/ginidnio/github-readme-stats)
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginidino)](https://github.com/ginidnio/github-readme-stats)
