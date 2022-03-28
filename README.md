@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/></a>&nbsp
 
 <br><br>
 <h3 align="center">🍀 About Me 🍀</h3><br>
