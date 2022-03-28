@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center">Techs that I've used</p>
 
 <p align = "center">
-  <img src="https://img.shields.io/badge/Java-006D5C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-006D5C?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/></a>&nbsp
 
 <br><br>
