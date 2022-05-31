@@ -15,22 +15,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=injaeLee&fontSize=70&animation=twinkling&fontColor=7E7E7E)
 
-<p align="center">🇰🇷 🇬🇧</p>   
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginidino&theme=dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  ## 🇰🇷 injae Lee 🇬🇧
+  
+  ---
+📚 Tech Stack 📚</h3>    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginidino&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=5)](https://github.com/ginidino/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginidino)](https://github.com/ginidnio/github-readme-stats)
+<img align="center" src="https://img.shields.io/badge/Java-006D5C?style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/Python-F6C915?style=for-the-badge&logo=Python&logoColor=white"/></a>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">Techs that I've used</p>
+![ginidino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginidino&show_icons=true&theme=dracula)
 
-<p align = "center">
-  <img src="https://img.shields.io/badge/Java-006D5C?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-F6C915?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
 
-<br><br>
-<h3 align="center">🍀 About Me 🍀</h3><br>
-<p align="center">
-<a href="https://www.instagram.com/jaeyaaa._.1ee3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+
+🍀 About Me 🍀</h3> 
+
+<a href="https://www.instagram.com/jaeyaaa._.1ee3/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jaeyaaa._.1ee3/"/></a>
+
+📆 TODAY</h3>   
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fginidino&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
