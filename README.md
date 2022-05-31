@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">🇰🇷 🇬🇧</p>   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginidino&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)](https://github.com/ginidino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginidino&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=5)](https://github.com/ginidino/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginidino)](https://github.com/ginidnio/github-readme-stats)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
