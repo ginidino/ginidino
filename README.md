@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://img.shields.io/badge/Java-006D5C?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img align="center" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/></a>
-<img align="center" src="https://img.shields.io/badge/Python-F6C915?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/Jupyter-F6C915?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
 
 ![ginidino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginidino&show_icons=true&theme=dracula)
 
