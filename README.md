@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginidino&theme=dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginidino&theme=dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>-->
   
   ## 🇰🇷 injae Lee 🇬🇧
   
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://img.shields.io/badge/Jupyter-F6C915?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
 <img align="center" src="https://img.shields.io/badge/CSS-F1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 
-![ginidino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginidino&show_icons=true&theme=dracula)
+<!--![ginidino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginidino&show_icons=true&theme=dracula)-->
 
 
 
@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/jaeyaaa._.1ee3/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jaeyaaa._.1ee3/"/></a>
 
-📆 TODAY</h3>   
+<!--📆 TODAY</h3>   
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fginidino&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fginidino&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>-->
